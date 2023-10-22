@@ -8,8 +8,11 @@ zonas_horarias = {
     "utc":-6,
     "cst": -1,
     "edt": -2,
+    "cdt": -1,
+    "pdt": +1,
     # Horas de Europa
     "cet": -8,
+    "bst": -7,
     # Horas de Africa
     "cat": -8,
     # horas de Asia
